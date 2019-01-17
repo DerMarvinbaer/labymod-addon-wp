@@ -1,0 +1,9 @@
+{
+  "uuid": "%uuid%",
+  "name": "WildPlace",
+  "mainClass": "net.wildplace.addon.labymod.Main",
+  "description": "A server addon for the german network wildplace.net",
+  "version": 2,
+  "author": "DerEisbaer",
+  "category": 3
+}
